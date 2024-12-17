@@ -57,9 +57,10 @@ Alternatively, you can upload this notebook to Google Colab or Kaggle for easier
 | 7       | **Practice Day**                                                     | Working with real Kaggle Competition dataset                                                                                      |
 | 8       | **Support Vector Machines (SVM)**                                    | Theory behind SVM, kernel functions, hyperplane and margin concepts, applications in classification tasks.                        |
 | 9       | **Ensemble Learning: Boosting Methods**                              | Bagging vs. boosting, AdaBoost, Gradient Boosting Machines (GBM), XGBoost, and introduction to CatBoost and LightGBM.             |
-| 10      | **Unsupervised Learning: Clustering Techniques**                     | Introduction to clustering, k-Means, hierarchical clustering, evaluating clustering performance.                                  |
-| 11      | **Hyperparameter Tuning and Model Optimization**                     | Practical approaches to hyperparameter tuning, using tools like GridSearchCV and Optuna.                                          |
-| 12      | **Interpreting Machine Learning Models**                             | Importance of explainability, feature importance, SHAP, and LIME for understanding model predictions.                             |
+| 10      | **Unsupervised Learning: Clustering Techniques**                     | Introduction to clustering, k-Means, hierarchical clustering, and DBSCAN.                                                         |
+| 10      | **Unsupervised Learning: Dimensional Reduction**                     | Introduction to PCA and t-SNE.                                                                                                    | 
+| 12      | **Hyperparameter Tuning and Model Optimization**                     | Practical approaches to hyperparameter tuning, using tools like GridSearchCV and Optuna.                                          |
+| 13      | **Interpreting Machine Learning Models**                             | Importance of explainability, feature importance, SHAP, and LIME for understanding model predictions.                             |
 
 
 ## 📊 Grading Scheme
