@@ -60,7 +60,7 @@ Alternatively, you can upload this notebook to Google Colab or Kaggle for easier
 | 10      | **Unsupervised Learning: Clustering Techniques**                     | Introduction to clustering, k-Means, hierarchical clustering, and DBSCAN.                                                         |
 | 11      | **Unsupervised Learning: Dimensional Reduction**                     | Introduction to PCA and t-SNE.                                                                                                    | 
 | 12      | **Hyperparameter Tuning and Model Optimization**                     | Practical approaches to hyperparameter tuning, using tools like GridSearchCV and Optuna.                                          |
-| 13      | **Interpreting Machine Learning Models**                             | Importance of explainability, feature importance, SHAP, and LIME for understanding model predictions.                             |
+
 
 
 ## 📊 Grading Scheme
