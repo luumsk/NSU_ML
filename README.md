@@ -79,6 +79,8 @@ This repository is licensed under the [MIT License](LICENSE).
 
 For any questions or additional information, please contact [Khue Luu] at [khue.luu@g.nsu.ru].
 
----
+## Course Versions
+- [2024 Edition (archived)](https://github.com/luumsk/NSU_ML/tree/24155)
+- [2025 Edition (current)](https://github.com/luumsk/NSU_ML/tree/main)
 
 Happy Learning! 🚀
