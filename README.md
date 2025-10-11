@@ -73,7 +73,7 @@ Grades follow the standard Russian 5-point system, where **5** = Excellent, **4*
 
 | **Component** | **Weight (%)** | **Description** |
 |----------------|----------------|-----------------|
-| **Assignments (12 total)** | **40%** | Each lecture is followed by an assignment that includes practical exercises or short analytical questions. Assignments assess understanding of key concepts and implementation skills. |
+| **Assignments (10 total)** | **40%** | Each lecture is followed by an assignment that includes practical exercises or short analytical questions. Assignments assess understanding of key concepts and implementation skills. |
 | **Midterm Exam** | **15%** | Covers the first six lectures. Includes theoretical questions and one applied problem to assess both conceptual and mathematical understanding. |
 | **Final Project** | **25%** | Students select a dataset and apply the complete machine learning pipeline: data preprocessing, model training, and evaluation. A short written report (5–10 pages) and code submission are required. |
 | **Final Exam** | **20%** | A comprehensive examination covering all twelve lectures. Tests both theoretical knowledge and the ability to apply ML algorithms to practical problems. |
@@ -93,7 +93,6 @@ Grades follow the standard Russian 5-point system, where **5** = Excellent, **4*
 - Active participation and consistent engagement throughout the course are expected.  
 - The final project must demonstrate an independent application of machine learning techniques and proper interpretation of results.
 
----
 
 **Total:** 100 points → converted to the 5-point grading scale.
 
