@@ -16,8 +16,6 @@ This hands-on course covers essential machine learning techniques, including key
 
 - **Lectures**: Slides and notes for each topic covered in the course.
 - **Labs**: Jupyter notebooks and exercises for hands-on practice.
-- **Assignments**: Weekly assignments for reinforcing the learned concepts.
-- **Projects**: Guidelines and examples for the final project.
 - **Resources**: Additional reading materials, research papers, and references.
 
 ## 🚀 Getting Started
@@ -45,22 +43,22 @@ Alternatively, you can upload this notebook to Google Colab or Kaggle for easier
 
 ## 📅 Course Schedule
 
-Each lecture = **2-hour seminar + 1-hour lab**
+Each lecture = **2-hour seminar + 2-hour lab** (1 academic hour = 45 minutes)
 
-| **Lecture** | **Topic** | **Seminar Content (2h)** | **Lab (1h)** |
+| **Lecture** | **Topic** | **Seminar** | **Lab ** |
 |--------------|------------|---------------------------|---------------|
 | **1** | **Introduction to Machine Learning** | What is ML? History and categories (supervised, unsupervised, reinforcement, self-supervised). Difference between AI/ML/DL. ML pipeline: data → model → evaluation → deployment. Types of data (tabular, image, text). Real-world applications. | Use scikit-learn toy datasets; load and inspect data (Iris, Boston). Plot basic features. |
-| **2** | **Data Preprocessing & Visualization** | Data quality issues: missing values, duplicates, outliers. Encoding (label, one-hot). Normalization vs. standardization. Train-test split. Visualization: histograms, pairplots, correlation heatmaps. | Hands-on data cleaning, encoding, and visualization using Pandas, Matplotlib, Seaborn. |
-| **3** | **Linear & Nonlinear Regression** | Simple & multiple linear regression, matrix form, least squares derivation, gradient descent. Polynomial regression, overfitting, regularization (L1, L2). Model evaluation metrics (MSE, RMSE, R²). | Implement linear regression from scratch + scikit-learn regression example. |
-| **4** | **Logistic Regression & Evaluation Metrics** | Sigmoid function, log-loss, decision boundary, odds and log-odds interpretation. Multi-class (one-vs-rest). Metrics: precision, recall, F1, ROC-AUC, confusion matrix. | Implement logistic regression + evaluate with scikit-learn metrics. |
-| **5** | **Decision Trees & Random Forests** | Splitting criteria (Gini, entropy), depth control, pruning, bias vs. variance. Ensemble concept, bagging, random subspace method, OOB score, feature importance. | Build and visualize trees, compare single tree vs. random forest accuracy. |
-| **6** | **k-NN & SVM** | Distance metrics (Euclidean, Manhattan). k value and curse of dimensionality. SVM: margins, support vectors, kernel trick, soft vs. hard margin, regularization parameter (C). | Classify data with k-NN and SVM; visualize decision boundaries. |
-| **7** | **Naive Bayes & Probabilistic Models** | Bayes theorem refresher, Gaussian NB, Multinomial NB, independence assumption. Compare NB with logistic regression. Intro to probabilistic reasoning and prior/posterior. | Spam classification with Naive Bayes. Compare with logistic regression. |
-| **8** | **Clustering Techniques** | Distance-based clustering (k-means, k-medoids), hierarchical clustering, DBSCAN. Cluster validity metrics (silhouette score, Davies-Bouldin index). | Apply clustering on real dataset (e.g., customers or health data). Visualize clusters. |
-| **9** | **Dimensionality Reduction & Feature Extraction** | PCA: covariance matrix, eigenvalues/eigenvectors, explained variance. SVD. Feature projection, whitening. Intro to manifold learning (t-SNE, UMAP conceptually). | Implement PCA, visualize 2D/3D projections. |
-| **10** | **Ensemble & Boosting Methods** | Bagging vs. boosting, AdaBoost mechanism, Gradient Boosting, XGBoost, LightGBM, CatBoost. Comparison of speed, interpretability, and accuracy. | Train and tune gradient boosting on classification dataset. |
-| **11** | **Model Validation & Optimization** | Cross-validation (k-fold, stratified), grid search, random search, early stopping. Regularization (L1/L2), learning curves. Bias–variance tradeoff visualization. Feature selection methods. | Practice hyperparameter tuning and model comparison. |
-| **12** | **Advanced Topics & Project Preparation** | Model interpretability (SHAP, LIME), feature importance, fairness, explainability. Concept of pipelines and deployment. Ethics in ML and dataset bias. Capstone project briefing. | SHAP analysis on trained model + mini project setup. |                                        |
+| **2** | **Linear & Nonlinear Regression** | Simple & multiple linear regression, ordinary least squares, gradient descent. Polynomial regression, overfitting, regularization (L1, L2). Model evaluation metrics (MSE, RMSE, R²). | Implement linear regression from scratch + scikit-learn regression example. |
+| **3** | **Logistic Regression and Neural Network** | Sigmoid function, log-loss, perceptron, multilayer perceptron (MLP), neural network. Metrics: precision, recall, F1, ROC-AUC, confusion matrix. | Implement logistic regression + evaluate with scikit-learn metrics. |
+| **4** | **Decision Trees** | Splitting criteria (Gini, entropy), information gain, recursive partitioning, overfitting and pruning, interpreting trees. | Build and visualize decision trees; inspect structure and decision boundaries. |
+| **5** | **Random Forests & Bagging** | Bootstrap sampling, random subspace method, OOB score, variance reduction, feature importance. | Train Random Forests, compare with single trees, analyze feature importance.|
+| **6** | **Boosting Methods** | AdaBoost mechanism, Gradient Boosting, XGBoost/LightGBM/CatBoost concepts, bias–variance behavior, boosting vs. bagging. | Train boosting models and compare performance across algorithms. |
+| **7** | **k-NN & Distance-Based Learning** | Distance metrics, weighted k-NN, feature scaling, curse of dimensionality, KD/Ball trees (conceptual). | Apply k-NN, visualize decision boundaries, show effects of scaling and k. |
+| **8** | **Support Vector Machines** | Margins, support vectors, soft vs. hard margin, kernel trick, RBF and polynomial kernels, role of C and gamma. | Train SVM models, visualize margins and kernel effects. |
+| **9** | **Naive Bayes & Probabilistic Models** | Bayes theorem, Gaussian NB, Multinomial NB, likelihood/prior/posterior, comparison with logistic regression and SVM. | Implement NB for text or email classification and compare models. |
+| **10** | **Clustering Methods** | k-Means, k-Medoids, hierarchical clustering, DBSCAN, cluster validity metrics (silhouette, Davies–Bouldin), strengths and limitations. | Apply clustering to real datasets and visualize clusters in 2D/3D. |
+| **11** | **Dimensionality Reduction** | PCA (covariance matrix, eigenvalues, explained variance), SVD, t-SNE/UMAP concepts, interpreting low-dimensional embeddings. | Implement PCA and visualize 2D/3D projections. |
+| **12** | **Final Presentations & Course Summary** | Review of all ML algorithms, exam preparation, Q&A, and student project presentations. | S(No lab activity). |                                        |
 
 
 
