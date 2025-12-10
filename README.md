@@ -76,6 +76,45 @@ Grades follow the standard Russian 5-point system, where **5** = Excellent, **4*
 | **Final Project** | **25%** | Students select a dataset and apply the complete machine learning pipeline: data preprocessing, model training, and evaluation. A short written report (5–10 pages) and code submission are required. |
 | **Final Exam** | **20%** | A comprehensive examination covering all twelve lectures. Tests both theoretical knowledge and the ability to apply ML algorithms to practical problems. |
 
+### **Final Project Presentation Checklist**
+
+Make sure your presentation includes these following information.
+
+1. Introduction
+- Name of the competition + link
+- What problem the competition aims to solve
+- Why machine learning is useful here
+- Task type (classification / regression / etc.)
+- Evaluation metric (short explanation)
+- Team members + timeline of work
+
+2. Data Analysis
+- What data is provided (train/test size, number of features, target)
+- Types of features (numerical, categorical, etc.)
+- Data quality issues (missing values, outliers, imbalance)
+- Key insights from EDA
+- Visualizations (target distribution, feature plots, correlations)
+
+3. Model Development
+- Models your team tried
+- Why you selected the final model
+- Hyperparameter tuning strategy
+- Any feature engineering you used
+- Validation setup + validation score
+
+4. Submission Results
+- Table of leaderboard scores for several submissions
+- What failed in early submissions
+- Error analysis: where the model performs poorly and why
+- What changes improved the score
+
+
+5. Team Learning
+- What your team learned from participating in a real competition
+- Skills gained (EDA, modeling, teamwork, evaluation)
+- What you would do differently in a future project
+- Which task each team member do
+
 ### **Grade Conversion**
 
 | **Total Score (%)** | **Final Grade (1–5)** | **Meaning** |
