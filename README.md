@@ -55,9 +55,9 @@ Each lecture = **2-hour seminar + 2-hour lab** (1 academic hour = 45 minutes)
 | **6** | **Boosting Methods** | AdaBoost mechanism, Gradient Boosting, XGBoost/LightGBM/CatBoost concepts, bias–variance behavior, boosting vs. bagging. | Train boosting models and compare performance across algorithms. |
 | **7** | **k-NN & Distance-Based Learning** | Distance metrics, weighted k-NN, feature scaling, curse of dimensionality, KD/Ball trees (conceptual). | Apply k-NN, visualize decision boundaries, show effects of scaling and k. |
 | **8** | **Support Vector Machines** | Margins, support vectors, soft vs. hard margin, kernel trick, RBF and polynomial kernels, role of C and gamma. | Train SVM models, visualize margins and kernel effects. |
-| **9** | **Naive Bayes & Probabilistic Models** | Bayes theorem, Gaussian NB, Multinomial NB, likelihood/prior/posterior, comparison with logistic regression and SVM. | Implement NB for text or email classification and compare models. |
-| **10** | **Clustering Methods** | k-Means, k-Medoids, hierarchical clustering, DBSCAN, cluster validity metrics (silhouette, Davies–Bouldin), strengths and limitations. | Apply clustering to real datasets and visualize clusters in 2D/3D. |
-| **11** | **Dimensionality Reduction** | PCA (covariance matrix, eigenvalues, explained variance), SVD, t-SNE/UMAP concepts, interpreting low-dimensional embeddings. | Implement PCA and visualize 2D/3D projections. |
+| **9** | **Clustering Methods** | k-Means, k-Medoids, hierarchical clustering, DBSCAN, cluster validity metrics (silhouette, Davies–Bouldin), strengths and limitations. | Apply clustering to real datasets and visualize clusters in 2D/3D. |
+| **10** | **Dimensionality Reduction** | PCA (covariance matrix, eigenvalues, explained variance), SVD, t-SNE/UMAP concepts, interpreting low-dimensional embeddings. | Implement PCA and visualize 2D/3D projections. |
+| **11** | **Recommendation Systems** | Collaborative filtering (user–item matrix, sparsity), content-based recommendation, similarity measures (cosine, Pearson), matrix factorization intuition. | Build a simple recommender using user–item ratings and cosine similarity. |
 | **12** | **Final Presentations & Course Summary** | Review of all ML algorithms, exam preparation, Q&A, and student project presentations. | S(No lab activity). |                                        |
 
 
